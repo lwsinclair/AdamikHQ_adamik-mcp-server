@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-adamikhq-adamik-mcp-server-badge.png)](https://mseep.ai/app/mcp-mirror-adamikhq-adamik-mcp-server)
+
 # Adamik MCP Server
 
 <p align="center">
